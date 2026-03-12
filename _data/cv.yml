@@ -11,18 +11,18 @@ cv:
   sections:
     Education:
       - institution: Western University
-        location: London, Ontario, Canada
+        location: London, ON
         area: Computer Science (Bioinformatics and Artificial Intelligence)
         studyType: PhD
         start_date: 2023
         end_date: 2028
         score: ""
-        courses: "Reinforcement Learning, Advanced Artificial Intelligence, Theoretical Machine Learning, Genomic Data Science"
+        courses: "Courses: Reinforcement Learning, Advanced Artificial Intelligence, Theoretical Machine Learning, Genomic Data Science"
         highlights: 
         - Fast-tracked from Masters program
 
       - institution: Western University
-        location: London, Ontario, Canada
+        location: London, ON
         area: Computer Science (Honours Specialization in Bioinformatics)
         studyType: Bachelor of Science 
         start_date: 2018
@@ -31,7 +31,7 @@ cv:
           - Dean's Honour List 
       
       - institution: Western University
-        location: London, Ontario, Canada
+        location: London, ON
         area: Biology (Honours Specialization in Genetics and Biochemistry)
         studyType: Bachelor of Science 
         start_date: 2018
@@ -42,6 +42,7 @@ cv:
 
     Experience:
       - company: Western University
+        location: London, ON
         position: Teaching Assistant 
         start_date: 2023
         end_date: present
