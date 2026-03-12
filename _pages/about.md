@@ -31,4 +31,3 @@ My doctoral research is supervised by Dr. Dan Lizotte and lies at the intersecti
 I am passionate about promoting equity and inclusion in STEM and am actively involved in mentorship and community outreach activities. I am a mentor with the Graduate Sisters in Science program, serve on the Faculty of Science EDIDA Committee, and organize the Retiring with Strong Minds seminar series, which provides graduate students with opportunities to share their research with older adults in the London community. 
 
 In 2025, I received the DRI EDIA Champions Award from the Digital Research Alliance of Canada, through which I led workshops introducing equity-deserving researchers across Canada to high-performance computing and AI. I currently hold a Canadian Institutes of Health Research (CIHR) Doctoral Scholarship. 
-
