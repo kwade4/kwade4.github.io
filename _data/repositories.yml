@@ -4,8 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - RAISE-DRI 
-  - HIV_Subtypes
+  - kwade4/RAISE-DRI 
+  - kwade4/HIV_Subtypes
   - PoonLab/CoVizu
   - PoonLab/OpenRDP
   - PoonLab/HexSE
