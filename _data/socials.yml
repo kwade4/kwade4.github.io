@@ -11,6 +11,6 @@ research_gate_profile: Kaitlyn-Wade
 github_username: kwade4
 
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://about.zenodo.org/static/img/logos/zenodo-black-border.svg # can be png, svg, jpg
+  logo: https://about.zenodo.org/static/img/icons/zenodo-icon-black.svg # can be png, svg, jpg
   title: Zenodo
   url: https://zenodo.org/search?q=%22Wade%2C%20Kaitlyn%22%20OR%20kwade4&l=list&p=1&s=10&sort=bestmatch
