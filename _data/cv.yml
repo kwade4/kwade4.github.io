@@ -18,39 +18,39 @@ cv:
         end_date: present
         score: "4.0 cGPA"
         courses: "Courses: Reinforcement Learning, Advanced Artificial Intelligence, Theoretical Machine Learning, Genomic Data Science"
-        highlights: 
-        - Fast-tracked from Masters program
-        - 96% average
+        highlights:
+          - Fast-tracked from Masters program
+          - 96% average
 
       - institution: Western University
         location: London, ON
         area: Computer Science (Honours Specialization in Bioinformatics)
-        studyType: Bachelor of Science 
+        studyType: Bachelor of Science
         start_date: 2018
         end_date: 2021
         highlights:
-          - Dean's Honour List 
-      
+          - Dean's Honour List
+
       - institution: Western University
         location: London, ON
         area: Biology (Honours Specialization in Genetics and Biochemistry)
-        studyType: Bachelor of Science 
+        studyType: Bachelor of Science
         start_date: 2018
         end_date: 2014
         highlights:
-          - Dean's Honour List 
+          - Dean's Honour List
           - Entrance Scholarship ($2500)
 
     Experience:
       - company: Western University
         location: London, ON
-        position: Teaching Assistant 
+        position: Teaching Assistant
         start_date: 2023
         end_date: present
         highlights:
           - CS 2210 - Coding Essentials (Introduction to Python)
-          - CS 3319 - Introduction to Databases 
-          - CS 4417 - Unstructured Data 
+          - CS 3319 - Introduction to Databases
+          - CS 4417 - Unstructured Data
 
     Community Involvement:
       - company: Graduate Sisters in Science
@@ -61,18 +61,17 @@ cv:
         summary: Guiding, supporting, and encouraging undergraduate women and non-binary students in STEM
         highlights:
           - Attended the national Women in Science and Engineering Conference (WISE)
-    
-    Academic Service: 
+
+    Academic Service:
       - company: Faculty of Science EDIDA Committee
-        postiion: Graduate Student Member 
+        postiion: Graduate Student Member
         location: Western University
         start date: April 2025
-        end date: present 
-        summary: Collaborating with faculty, staff, and students to identify barriers and develop initiatives to promote equity, diversity, inclusion, decolonization, and accessibility in the Faculty of Science.  
-
+        end date: present
+        summary: Collaborating with faculty, staff, and students to identify barriers and develop initiatives to promote equity, diversity, inclusion, decolonization, and accessibility in the Faculty of Science.
 
     Funding and Awards:
-      - title: CIHR Catalyst Grant 
+      - title: CIHR Catalyst Grant
 
       - title: CIHR Strategic Master's Award (Bioinformatics, Computational Biology, and Health Data Science)
         date: 2024-05-01
@@ -84,32 +83,32 @@ cv:
         awarder: National Sciences and Engineering Research Council of Canada (NSERC)
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: Awarded $17,500 for demonstrating a high standard of achievement in undergraduate and early graduate studies. This award recognizes academic excellence, leadership, and research potential in early graduate studies. (Declined)
-        status: declined 
-      
+        status: declined
+
     # Publications:
-      # - title: Zur Elektrodynamik bewegter Körper
-      #   authors:
-      #     - Albert Einstein
-      #   publisher: Annalen der Physik
-      #   releaseDate: 1905-06-30
-      #   url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-      #   summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    # - title: Zur Elektrodynamik bewegter Körper
+    #   authors:
+    #     - Albert Einstein
+    #   publisher: Annalen der Physik
+    #   releaseDate: 1905-06-30
+    #   url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+    #   summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-      #   authors:
-      #     - Albert Einstein
-      #   publisher: Annalen der Physik
-      #   releaseDate: 1905-03-18
-      #   url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-      #   summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+    #   authors:
+    #     - Albert Einstein
+    #   publisher: Annalen der Physik
+    #   releaseDate: 1905-03-18
+    #   url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+    #   summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      # - title: Die Grundlage der allgemeinen Relativitätstheorie
-      #   authors:
-      #     - Albert Einstein
-      #   publisher: Annalen der Physik
-      #   releaseDate: 1916-03-20
-      #   url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-      #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    # - title: Die Grundlage der allgemeinen Relativitätstheorie
+    #   authors:
+    #     - Albert Einstein
+    #   publisher: Annalen der Physik
+    #   releaseDate: 1916-03-20
+    #   url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+    #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     # Skills:
     #   - name: Physics
