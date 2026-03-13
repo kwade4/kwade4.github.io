@@ -15,11 +15,12 @@ cv:
         area: Computer Science (Bioinformatics and Artificial Intelligence)
         studyType: PhD
         start_date: 2023
-        end_date: 2028
-        score: ""
+        end_date: present
+        score: "4.0 cGPA"
         courses: "Courses: Reinforcement Learning, Advanced Artificial Intelligence, Theoretical Machine Learning, Genomic Data Science"
         highlights: 
         - Fast-tracked from Masters program
+        - 96% average
 
       - institution: Western University
         location: London, ON
@@ -70,20 +71,19 @@ cv:
         summary: Collaborating with faculty, staff, and students to identify barriers and develop initiatives to promote equity, diversity, inclusion, decolonization, and accessibility in the Faculty of Science.  
 
 
-    Awards:
-      - title: Strategic Master's Award (Bioinformatics, Computational Biology, and Health Data Science)
+    Funding and Awards:
+      - title: CIHR Catalyst Grant 
+
+      - title: CIHR Strategic Master's Award (Bioinformatics, Computational Biology, and Health Data Science)
         date: 2024-05-01
         awarder: Canadian Institutes of Health Research
-        amount: $17,500  
-        summary: Awarded for outstanding achievement in undergraduate and early graduate studies. This award recognizes academic excellence, leadership, and research potential in a CIHR priority area. 
-        status: accepted
+        summary: Awarded $17,500 for outstanding achievement in undergraduate and early graduate studies. This award recognizes academic excellence, leadership, and research potential in a CIHR priority area. (Accepted)
 
-      - title: CGS-M (Canada Graduate Scholarship - Masters)
+      - title: NSERC CGS-M (Canada Graduate Scholarship - Masters)
         date: 2024-04-01
         awarder: National Sciences and Engineering Research Council of Canada (NSERC)
-        amount: $17,500 CAD
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: Awarded for demonstrating a high standard of achievement in undergraduate and early graduate studies. This award recognizes academic excellence, leadership, and research potential in early graduate studies. 
+        summary: Awarded $17,500 for demonstrating a high standard of achievement in undergraduate and early graduate studies. This award recognizes academic excellence, leadership, and research potential in early graduate studies. (Declined)
         status: declined 
       
     # Publications:
